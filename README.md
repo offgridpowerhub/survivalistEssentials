@@ -1,6 +1,8 @@
-# survivalistEssentials
+# survivalistEssentials #offgridpowerhub
+
 Essentials for every prepper living off the grid
-Survivalist Essentials: Power, Preparedness, and the Art of Not Dying
+
+Survivalist Essentials: Power, Preparedness, and the Art of Not Dying 
 
 Welcome to the Survivalist’s Bible of Power and Preparedness
 
@@ -10,7 +12,7 @@ This repository is for those who refuse to be left shivering in the dark, waitin
 
 If you think FEMA is going to save you, you might as well go buy a lifetime supply of scented candles and pray to the gods of modern convenience. For the rest of us, there’s this: real-world solutions, battle-tested strategies, and a healthy distrust of the system.
 
-What You’ll Find Here
+What You’ll Find Here at https://offgridpowerhub.com
 
 🔥 Off-Grid Power Solutions – Solar generators, DIY battery backups, portable power stations. Because electricity is life, and life is short without it.
 
@@ -54,4 +56,4 @@ Because when the grid fails and society stumbles, the prepared won’t be beggin
 
 Stay sharp. Stay powered. Stay alive.
 
-Survivalist Essentials – Because Hope is Not a Strategy.
+Get Survivalist Essentials at https://offgridpowerhub.com – Because Hope is Not a Strategy.
